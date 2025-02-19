@@ -1,0 +1,5 @@
+Agent query: How do you find the tap-to-earn game interface? Please check if: 1) The tap button works and increases your score 2) The leaderboard updates after tapping 3) The UI has a futuristic/crypto theme with Telegram-inspired design
+
+Add initial UI implementation for Telegram-inspired tap-to-earn game.  Includes client-side components and Replit configuration.
+
+Screenshot: https://storage.googleapis.com/screenshot-production-us-central1/b9eb00db-e097-437a-abcd-80b0647519f3/1cffb463-57fe-4a07-b399-2e48c56e7d1b.jpg
